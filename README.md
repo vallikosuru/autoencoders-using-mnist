@@ -38,21 +38,5 @@ Instead of learning a fixed encoding, VAE learns a **distribution (mean and vari
 
 ---
 
-## 📊 Example Results
 
-### 🔹 1. Original vs Reconstructed Digits
-The VAE learns to reconstruct digits. After training:
-
-| Original Image | Reconstructed Image |
-|----------------|---------------------|
-| ![](images/original.png) | ![](images/reconstructed.png) |
-
-### 🔹 2. Latent Space Visualization
-By mapping latent values across a 2D space, we can visualize how the model generates different digits.
-
-| Latent Space Grid |
-|-------------------|
-| ![](images/latent_space_grid.png) |
-
----
 
