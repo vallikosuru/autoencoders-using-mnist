@@ -1,1 +1,1 @@
-# autoencoders-using-mnist
+# MNIST-Vae-Deep-Learning
